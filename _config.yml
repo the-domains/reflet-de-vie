@@ -1,14 +1,14 @@
-layout_spectrum: 0.8302920749410987
-typography_spectrum: 0.1989138936623931
+layout_spectrum: 0.059622568311169744
+typography_spectrum: 0.1344065354205668
 color:
-  brandStrength: 0.6401818888261914
-  lightness: 0.26999038294889033
-  saturation: 0.0780338526237756
-  rhythmicContrast: 0.01733631151728332
+  brandStrength: 0.07139706262387335
+  lightness: 0.5133807803504169
+  saturation: 0.021237413631752133
+  rhythmicContrast: 0.8275516163557768
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Reflet de Vie
